@@ -36,7 +36,7 @@ python nmaps_maker.py --input my_image.png --overlap small
 
 
 
-## Command line arguments:
+## Command-line arguments:
 
 
 
