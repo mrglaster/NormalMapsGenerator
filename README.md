@@ -49,5 +49,5 @@ python nmaps_maker.py --input my_image.png --overlap small
 
 
 
-Project uses code of DeepBump tool by HugoTini. Link to repository:  https://github.com/HugoTini/DeepBump
+Project uses code and AI model of DeepBump tool by HugoTini. Link to repository:  https://github.com/HugoTini/DeepBump
 
