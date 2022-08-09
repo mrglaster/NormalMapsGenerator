@@ -64,9 +64,8 @@ def main():
                         print("Something went wrong with: "+i)
                         return
         elif os.path.exists(input_data):
-            print("Path exists!")
+            print("Input image found...")
             try:
-                print("test")
                 make_normalmap(img_src=input_data, bump_path=input_data[:len(input_data) - 4] + '_normal.png', overlap=overlap)
             except:
                 print("Something went wrong with: "+input_data)
